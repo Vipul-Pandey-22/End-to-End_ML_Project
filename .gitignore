@@ -1,1 +1,3 @@
 venv/
+logs/
+ml_project.egg-info/
