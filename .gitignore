@@ -2,3 +2,5 @@ venv/
 logs/
 ml_project.egg-info/
 artifacts/
+notebook/catboost_info
+src/_pycache_
