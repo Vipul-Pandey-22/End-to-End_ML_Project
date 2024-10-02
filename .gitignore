@@ -3,4 +3,6 @@ logs/
 ml_project.egg-info/
 artifacts/
 notebook/catboost_info
-src/_pycache_
+catboost_info/
+src/__pycache__/
+src/components/__pycache__/
